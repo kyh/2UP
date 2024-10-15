@@ -27,7 +27,7 @@
     "framer-motion": "^10.16.4",
     "lodash": "^4.17.21",
     "nanoid": "^4.0.2",
-    "next": "^13.5.3",
+    "next": "^14.2.10",
     "next-themes": "^0.2.1",
     "partysocket": "0.0.8",
     "prismjs": "^1.29.0",
